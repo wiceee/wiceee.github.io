@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://wice.com/post/%E9%80%9A%E8%BF%87PicGo-GitHub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%9B%BE%E5%BA%8A.html</loc>
+    
+    <lastmod>2023-01-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/post/%E5%AE%89%E8%A3%85AList%E5%92%8C%E7%BE%8E%E5%8C%96%E9%A1%B5%E9%9D%A2.html</loc>
+    
+    <lastmod>2023-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/post/Hexo%E6%9B%B4%E6%8D%A2Aurora%E4%B8%BB%E9%A2%98.html</loc>
+    
+    <lastmod>2023-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2.html</loc>
+    
+    <lastmod>2023-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/message-board/index.html</loc>
+    
+    <lastmod>2023-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/post/test.html</loc>
+    
+    <lastmod>2023-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/post/hello-world.html</loc>
+    
+    <lastmod>2023-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/tags/index.html</loc>
+    
+    <lastmod>2023-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://wice.com/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://wice.com/tags/theme/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/tags/test/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/tags/blog/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wice.com/tags/AList/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://wice.com/categories/blog/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
